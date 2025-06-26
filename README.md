@@ -46,6 +46,9 @@
 - ✅ **Xuất CSV** bảng lương
 - ✅ **Dark mode** toàn hệ thống
 - ✅ **Responsive** đầy đủ
+> ![image](https://github.com/user-attachments/assets/21185ca3-e74c-4272-8501-42b61903282f)
+>
+
 
 ---
 
