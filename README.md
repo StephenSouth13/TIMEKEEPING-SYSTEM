@@ -2,6 +2,11 @@
 
 > Giao diện frontend hiện đại, chuyên nghiệp cho hệ thống chấm công, phân quyền rõ ràng, giao diện đẹp mượt, sẵn sàng demo doanh nghiệp.  
 > Phát triển bởi **StephenSouth13**, thuộc đội lập trình **The Next Generation** – tổ chức VSM.
+> Link demo on: https://timekeeping-system-1.onrender.com/
+> ![image](https://github.com/user-attachments/assets/4ec7aa5c-d0e3-4e7e-b0aa-22bb8e1de6c7)
+> ![image](https://github.com/user-attachments/assets/053b102d-5590-46d6-a0b9-ad86e8d35b6b)
+> ![image](https://github.com/user-attachments/assets/c8a3047d-ebfc-4f5d-b7fa-8d038fff4c4e)
+
 
 ---
 
